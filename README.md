@@ -1,16 +1,18 @@
 # chatgrupo6
+en este link encontrara una demostración del funcionamiento del reto 3
+grupo 6
 
-A new Flutter project.
+https://www.loom.com/share/0644e70a43024143ae08742890691b99
 
-## Getting Started
+Integrantes:
 
-This project is a starting point for a Flutter application.
+Franky Calcetero Blanco, 
 
-A few resources to get you started if this is your first Flutter project:
+Jose Hector Ortiz Jaramillo, 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Leyde Gualteros Montaño, 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Smith Villafañe Arrieta, 
+
+Stephany Mendoza Orcasitas
+
