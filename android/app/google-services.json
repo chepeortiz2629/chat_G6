@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226598008641",
+    "project_id": "reto-3-chat-de5a6",
+    "storage_bucket": "reto-3-chat-de5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226598008641:android:71d85d3269d24e00f993c0",
+        "android_client_info": {
+          "package_name": "com.example.chatgrupo6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226598008641-98l5bs56h0l8ipnamdtm685b4h8rf63h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEwZ8LjlFY60Tgtv0XXFQLnMC3NNtMOso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226598008641-98l5bs56h0l8ipnamdtm685b4h8rf63h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
